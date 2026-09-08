@@ -1,0 +1,6 @@
+{
+  "name": "qevra-open-web-discovery",
+  "description": "Open-web discovery architecture, relevance systems, RSS ingestion, publisher distribution, and scalable content discovery — documented through the QEVRA project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
